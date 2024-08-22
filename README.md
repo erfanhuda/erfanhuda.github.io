@@ -6,16 +6,28 @@ After years of struggling in learning software development. This is my first por
 Ready to join the community &#128512; &#128076; &#129309;
 
 ## C
-![C]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HF0t45c7E_FTP3sEz8IrmmgZS5UgwMtK2g&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s))
+![C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s)
 
-`printf("%s", "Hi! My name is Muhammad Erfan Huda");`
+`
+#include <stdio.h>
+int main()
+{
+  printf("%s", "Hi! My name is Muhammad Erfan Huda");
+}
+`
 
 ## C++
 ![C++](https://banner2.cleanpng.com/20180408/pew/avgkwvnq1.webp)
 
-`std::out << "Hi! My name is Muhammad Erfan Huda" << std::endl;`
+`
+#include <iostream>
+int main()
+{
+  std::out << "Hi! My name is Muhammad Erfan Huda" << std::endl;
+}
+`
 
-## Python 
+## Python
 `print("Hi! My name is Muhammad Erfan Huda")`
 
 ## Javascript
