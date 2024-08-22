@@ -44,7 +44,7 @@ if __name__ == "__name__":
 `console.log("Hi! My name is Muhammad Erfan Huda");`
 
 ## Rust
-<i class="devicon-rust-original" width="100"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="100"/>
 
 `
 fn main() {
