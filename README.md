@@ -6,8 +6,7 @@ After years of struggling in learning software development. This is my first por
 Ready to join the community &#128512; &#128076; &#129309;
 
 ## C
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s" width="200">
-<!-- ![C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="200"/>
 
 `
 #include <stdio.h>
@@ -18,8 +17,7 @@ int main()
 `
 
 ## C++
-<img src="https://banner2.cleanpng.com/20180408/pew/avgkwvnq1.webp" width="200">
-<!-- ![C++](https://banner2.cleanpng.com/20180408/pew/avgkwvnq1.webp) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="200"/>
 
 `
 #include <iostream>
@@ -30,10 +28,26 @@ int main()
 `
 
 ## Python
-`print("Hi! My name is Muhammad Erfan Huda")`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="200"/>
+
+`
+if __name__ == "__name__":
+    print("Hi! My name is Muhammad Erfan Huda")
+`
 
 ## Javascript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="200"/>
+
 `console.log("Hi! My name is Muhammad Erfan Huda");`
 
 ## Rust
-`println!("Hi! My name is Muhammad Erfan Huda");`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="200"/>
+
+`
+fn main() {
+println!("Hi! My name is Muhammad Erfan Huda");
+}`
+
+## SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="200"/>
+`SELECT "Hi! My name is Muhammad Erfan Huda";`
