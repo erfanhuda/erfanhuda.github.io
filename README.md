@@ -12,13 +12,11 @@ Please welcome to my site.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100"/>
 
 `
-
-#include <stdio.h>
-int main()
-{
-  printf("%s", "Hi! My name is Muhammad Erfan Huda");
-}
-
+    #include <stdio.h>
+    int main()
+    {
+      printf("%s", "Hi! My name is Muhammad Erfan Huda");
+    }
 `
 
 ## C++
