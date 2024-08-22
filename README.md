@@ -12,47 +12,54 @@ Please welcome to my site.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100"/>
 
 ```
-
     #include <stdio.h>
+
     int main()
     {
       printf("%s", "Hi! My name is Muhammad Erfan Huda");
     }
-
 ```
 
 ## C++
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100"/>
 
-`
-#include <iostream>
-int main()
-{
-  std::out << "Hi! My name is Muhammad Erfan Huda" << std::endl;
-}
-`
+```
+    #include <iostream>
+    
+    int main()
+    {
+      std::out << "Hi! My name is Muhammad Erfan Huda" << std::endl;
+    }
+```
 
 ## Python
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100"/>
 
-`
+```
+
 if __name__ == "__name__":
     print("Hi! My name is Muhammad Erfan Huda")
-`
+
+```
 
 ## Javascript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100"/>
 
-`console.log("Hi! My name is Muhammad Erfan Huda");`
+```
+console.log("Hi! My name is Muhammad Erfan Huda");
+```
 
 ## Rust
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="100"/>
 
-`
+```
 fn main() {
 println!("Hi! My name is Muhammad Erfan Huda");
-}`
+}
+```
 
 ## SQL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="100"/>
-`SELECT "Hi! My name is Muhammad Erfan Huda";`
+```
+SELECT "Hi! My name is Muhammad Erfan Huda";
+```
