@@ -50,7 +50,7 @@ console.log("Hi! My name is Muhammad Erfan Huda");
 ```
 
 ## Rust
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZY24RZqAwqT0BiVAlMya8WWDqbPtgfysOqA&s" width="100"/>
 
 ```
 fn main() {
@@ -60,6 +60,7 @@ println!("Hi! My name is Muhammad Erfan Huda");
 
 ## SQL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="100"/>
+
 ```
 SELECT "Hi! My name is Muhammad Erfan Huda";
 ```
