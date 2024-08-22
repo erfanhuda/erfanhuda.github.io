@@ -6,7 +6,8 @@ After years of struggling in learning software development. This is my first por
 Ready to join the community &#128512; &#128076; &#129309;
 
 ## C
-![C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s" width="200" height="100">
+<!-- ![C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1JcScz9Ore7iksOJ53HnXawXfq-RskFvAQ&s) -->
 
 `
 #include <stdio.h>
