@@ -11,13 +11,15 @@ Please welcome to my site.
 ## C
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100"/>
 
-`
+<code>
+
 #include <stdio.h>
 int main()
 {
   printf("%s", "Hi! My name is Muhammad Erfan Huda");
 }
-`
+
+<code>
 
 ## C++
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100"/>
