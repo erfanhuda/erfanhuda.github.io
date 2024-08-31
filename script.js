@@ -4,9 +4,9 @@ function startTime() {
     let minutes = today.getMinutes();
     let seconds = today.getSeconds();
     
-    document.getElementById("hours").innerHTML += hour;
-    document.getElementById("minutes").innerHTML += minutes;
-    document.getElementById("seconds").innerHTML += seconds;
+    document.getElementById("hours").innerHTML = hour;
+    document.getElementById("minutes").innerHTML = minutes;
+    document.getElementById("seconds").innerHTML = seconds;
     setTimeout(startTime, 1000); 
 };
 
@@ -16,7 +16,6 @@ function checktime(i) {
     }
     return i;
 }
-
 
 // Application div
 const appDiv = "app";
@@ -104,6 +103,6 @@ let router = (evt) => {
 };
 
 // For first load or when routes are changed in browser url box.
-window.onload(startTime);
+setTimeout(startTime, 1000);
 window.addEventListener('load', router);
 window.addEventListener('hashchange', router);
