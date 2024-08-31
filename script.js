@@ -4,9 +4,9 @@ function startTime() {
     let minutes = today.getMinutes();
     let seconds = today.getSeconds();
     
-    document.getElementById("hours").innerHTML = hour;
-    document.getElementById("minutes").innerHTML = minutes;
-    document.getElementById("seconds").innerHTML = seconds;
+    document.getElementById("hours").innerHTML += hour;
+    document.getElementById("minutes").innerHTML += minutes;
+    document.getElementById("seconds").innerHTML += seconds;
     setTimeout(startTime, 1000); 
 }
 
