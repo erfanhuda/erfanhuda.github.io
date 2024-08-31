@@ -8,7 +8,7 @@ function startTime() {
     document.getElementById("minutes").innerHTML += minutes;
     document.getElementById("seconds").innerHTML += seconds;
     setTimeout(startTime, 1000); 
-}
+};
 
 function checktime(i) {
     if (i<10) {
@@ -104,5 +104,6 @@ let router = (evt) => {
 };
 
 // For first load or when routes are changed in browser url box.
+window.onload(startTime);
 window.addEventListener('load', router);
 window.addEventListener('hashchange', router);
