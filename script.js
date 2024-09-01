@@ -76,6 +76,13 @@ let resolveRoute = (route) => {
         throw new Error("The route is not defined");
     }
 };
+
+let createNav = (id, xmlString) => {
+    let d = document.createElement('div');
+    d.id = id;
+    d.innerHTML = xmlString;
+    return d.firstChild;
+};
 // The actual router, get the current URL and generate the corresponding template
 let router = (evt) => {
     const url = window.location.hash.slice(1) || "/";
