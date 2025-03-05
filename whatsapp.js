@@ -1,10 +1,9 @@
-let sendMessage = () => {
+function sendMessage() {
     let number = "+6285799663331";
     
-    let mainEl = document.querySelector('#contact-form');
-    let emailFrom = mainEl.getElementById('email').value;
-    let nameFrom = mainEl.getElementById('name').value;
-    let textMessage = mainEl.getElementById('description').value;
+    let emailFrom = document.getElementById('email').value;
+    let nameFrom = document.getElementById('name').value;
+    let textMessage = document.getElementById('description').value;
 
 
     var url = "https://wa.me/" + number + "?text="
